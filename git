@@ -1,0 +1,2 @@
+git commit -a -m "new page update"
+git push origin gh-pages
